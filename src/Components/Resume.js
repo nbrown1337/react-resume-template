@@ -17,7 +17,7 @@ class Resume extends Component {
             <p>{work.description}</p>
             {work.image ? (
                 <img alt="loading-accomplishments" src={work.image}/>
-            ):(<></>)}
+            ):(null)}
         </div>
       })
       var skills = this.props.data.skills.map(function(skills){
