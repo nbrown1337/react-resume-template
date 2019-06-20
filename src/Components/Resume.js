@@ -49,8 +49,6 @@ class Resume extends Component {
          </div>
       </div>
 
-          <div className="ldBar" data-value="50" id="myItem1"></div>
-
       <div className="row work">
 
          <div className="three columns header-col">

@@ -16,9 +16,6 @@ class Header extends Component {
     return (
       <header id="home">
 
-          <link rel="stylesheet" type="text/css" href="css/loading-bar.css"/>
-          <script type="text/javascript" src="js/loading-bar.js"/>
-
       <nav id="nav-wrap">
 
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
