@@ -30,6 +30,10 @@ class Resume extends Component {
 
     return (
       <section id="resume">
+          <script>
+              var bar2 = document.getElementById('myItem1').ldBar;
+              bar2.set(60);
+          </script>
 
       <div className="row education">
          <div className="three columns header-col">
@@ -45,7 +49,7 @@ class Resume extends Component {
          </div>
       </div>
 
-          <div className="ldBar" data-value="50"></div>
+          <div className="ldBar" data-value="50" id="myItem1"></div>
 
       <div className="row work">
 
