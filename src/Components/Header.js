@@ -16,8 +16,8 @@ class Header extends Component {
     return (
       <header id="home">
 
-          <link rel="stylesheet" type="text/css" href="/public/css/loading-bar.css"/>
-          <script type="text/javascript" src="/public/js/loading-bar.js"/>
+          <link rel="stylesheet" type="text/css" href="css/loading-bar.css"/>
+          <script type="text/javascript" src="js/loading-bar.js"/>
 
       <nav id="nav-wrap">
 
