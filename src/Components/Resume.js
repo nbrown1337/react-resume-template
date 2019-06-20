@@ -45,6 +45,7 @@ class Resume extends Component {
          </div>
       </div>
 
+          <div className="ldBar" data-value="50"></div>
 
       <div className="row work">
 
