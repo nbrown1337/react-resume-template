@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import $ from 'jquery';
 
 class Resume extends Component {
   render() {
@@ -20,9 +21,9 @@ class Resume extends Component {
         var className = 'bar-expand '+skills.name.toLowerCase();
         return <li key={skills.name}><span style={{width:skills.level}} data-percent={skills.level} className={className}/><em>{skills.name}</em></li>
       });
-        jQuery('.bar-expand').each(function(){
-            jQuery(this).animate({
-                width:jQuery(this).attr('data-percent')
+        $('.bar-expand').each(function(){
+            $(this).animate({
+                width:$(this).attr('data-percent')
             },2000);
         });
     }
