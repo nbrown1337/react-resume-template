@@ -2,9 +2,9 @@
   "main": {
     "name":"Nathan Brown",
     "occupation":"Web Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "description":"I am always seeking the advancement of my knowledge and career. Below is a brief rundown of my history and current skillset, please view my resume for more detailed info.",
+    "image":"profilepic.png",
+    "bio":"Atlanta born and raised, I have always strived to digest more knowledge. Naturally, I became facinated with computers and programming at a very early age and knew it would be my future career. The possibilities for the knowledge you can gain in this field is immense, and that makes me very happy. I would love to stay in contact with anyone reading this, make sure to connect with me on LinkedIn!",
     "contactmessage":"",
     "email": "nbrown1337@gmail.com",
     "phone": "555-555-5555",
@@ -30,7 +30,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here is a ranking of my proficiency in certain languages / technologies:",
     "education":[
       {
         "school":"Gwinnett Technical College",
