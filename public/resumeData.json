@@ -105,14 +105,14 @@
     "projects": [
       {
         "title":"GigaLoan",
-        "category":"Worked as part of a team to develop an Android, iOS, and Javascript Web Application. GigaLoan is used by students to find and accept odd jobs in their area. Payment upon completion of a task would go directly to the student’s education loans.",
-        "image":"canadian-wanderlust.jpg",
+        "category":"Worked as part of a team to develop an Android, iOS, and Javascript Web Application. GigaLoan is used by students to find and accept odd jobs in their area. Payment upon completion of a task would go directly to the student’s education loans. (Image is of a testing page for the middleware during development)",
+        "image":"gigaloan.png",
         "url":"https://github.com/nbrown1337/GigALoan"
       },
       {
         "title":"Node.js Weather Bot",
         "category":"Created a Node.js program that used Facebook’s messenger API to send information to users requesting data such as weather. Integrated the Node.js client with Wit AI in order to understand sentence structure and type of request. Currently, the bot provides up to date weather using several weather API calls.",
-        "image":"fury-fighting-gear.jpg",
+        "image":"chatbot.png",
         "url":""
       }
     ]
