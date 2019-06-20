@@ -44,7 +44,8 @@
         "company":"You42",
         "title":"Javascript Developer",
         "years":"November 2018 - Present",
-        "description":"Position in progress,<span>yo</span> compiling achievements: 22% (13/57)..."
+        "description":"Position in progress, compiling achievements: 22% (13/57)...",
+        "image": "images/loading.gif"
       },
       {
         "company":"BoardActive",
