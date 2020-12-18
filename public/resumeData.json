@@ -110,24 +110,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Freud Tools Online Catalog",
-        "category":"Worked as a Senior Full Stack Developer to add new features and update the look and feel of Freud Tool's online product catalog. Built with VueJS and Laravel PHP.",
-        "image":"freud.png",
-        "url":"https://www.freudtools.com/explore/saw-blades"
-      },
-      {
-        "title":"Studio42 Creator Content Managment Platform",
-        "category":"I worked to create this creator/content management platform. Users could upload, manage, and view statistics of multiple content sharing platforms at once. We integrated with Youtube, Twitter, Facebook, Vimeo, and more. Built using React, GraphQL, Golang and MongoDB.",
-        "image":"dashboard.png",
-        "url":"https://www.freudtools.com/explore/saw-blades"
-      },
-      {
-        "title":"You42 Content Sharing Platform",
-        "category":"Worked as the Front End Lead on a creator-focused content sharing platform. I implemented nearly every design and fuction you still see today, from navbar to audio streaming. Built with React on Laravel PHP.",
-        "image":"u42.png",
-        "url":"https://www.you42.com/home"
-      },
-      {
         "title":"GigaLoan",
         "category":"Worked as part of a team to develop an Android, iOS, and Javascript Web Application. GigaLoan is used by students to find and accept odd jobs in their area. Payment upon completion of a task would go directly to the student’s education loans. (Image is of a testing page for the middleware during development)",
         "image":"gigaloan.png",
